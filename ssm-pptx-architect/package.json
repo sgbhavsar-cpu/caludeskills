@@ -1,0 +1,21 @@
+{
+  "name": "ssm-pptx-architect",
+  "version": "1.0.0",
+  "description": "Enterprise-grade PowerPoint Presentation Generator using PptxGenJS",
+  "main": "scripts/pptx_deck_builder.js",
+  "scripts": {
+    "build-demo": "node scripts/pptx_deck_builder.js"
+  },
+  "keywords": [
+    "pptx",
+    "presentation",
+    "pptxgenjs",
+    "powerpoint",
+    "deck-generator"
+  ],
+  "author": "SSM InfoTech Solutions",
+  "license": "MIT",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
